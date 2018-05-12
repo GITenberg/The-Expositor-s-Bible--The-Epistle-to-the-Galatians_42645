@@ -1,0 +1,29 @@
+_repo: The-Expositor-s-Bible--The-Epistle-to-the-Galatians_42645
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42645-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Findlay, George G. (George Gillanders)
+    aliases:
+    - Findlay, George Gillanders
+    - Findlay, G. G. (George Gillanders)
+    birthdate: 1849
+    deathdate: 1919
+    gutenberg_agent_id: '39891'
+    url: http://www.gutenberg.org/2009/agents/39891
+description: ''
+gutenberg_issued: '2013-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42645'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Galatians -- Commentaries'
+- !lcc 'BS'
+title: 'The Expositor''s Bible: The Epistle to the Galatians'
+url: http://www.gutenberg.org/ebooks/42645
